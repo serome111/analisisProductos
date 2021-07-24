@@ -14,6 +14,7 @@
 "Todo los dias son bueno",Satisfacción
 "pase una tarde agradable bueno",Satisfacción
 "si, deseo continuar con la compra",Satisfacción
+"deseo continuar con la compra",Satisfacción
 "se da finalizada la conversacion por inactividad del cliente", "sin_respuesta"
 "hola como estas",nulo
 "buenos dias",nulo
@@ -38,3 +39,15 @@
 "sexo",nulo
 "me informa lo siguientes",nulo
 "no me gusto",Insactifaccion
+"desea continuar con la compra",nulo
+"compra",nulo
+"la compra",nulo
+"deseo eso",nulo
+".000",nulo
+"ROSADA",nulo
+"la falda es de",nulo
+"banco",nulo
+"el total seria",nulo
+"consignación o transferencia",nulo
+"es de",nulo
+"deseo continuar",nulo
