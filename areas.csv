@@ -5,6 +5,7 @@
 "camisas",ropa
 "necesito una camisa",camisa
 "quiero una camisa",camisa
+"las camisas",camisa
 "boxers",ropa_interior
 "camisetas",camiseta
 "camiceta",camiseta
@@ -79,3 +80,12 @@
 "palabra",nn
 "persona",nn
 "¿hola,como esta?",nn
+"Puedo ayudarle?",nn
+"m",nn
+"x",nn
+"s",nn
+"M",nn
+"necesito una camisa",camisa
+"un par de camisas",camisa
+"un grupo de camisas",camisa
+"continuar con la compra",nn
