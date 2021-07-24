@@ -3,8 +3,7 @@
 "asesor:","por favor me informa lo siguientes datos, talla, color, sexo y referencia"
 "cliente:","camiseta talla l, color negro, sexo masculino, referencia 748965"
 "cliente:","pantalon talla 34, color café, sexo masculino, referencia 896541 "
-"cliente:","gracias "
-"asesor:","la camisa es de 80.900 y el pantalon de 98.000, ¿desea continuar con la compra? "
+"cliente:","gracias"
+"asesor:","la camisa es de 80.900 y el pantalon de 98.000, ¿desea continuar con la compra?"
 "cliente:","si, deseo continuar con la compra"
-"asesor:","el total sería 178.900, consignación o transferencia al banco xxxxx, después de realizar el pago se le enviará la ropa en 24 horas"  
-
+"asesor:","el total sería 178.900, consignación o transferencia al banco xxxxx, después de realizar el pago se le enviará la ropa en 24 horas"
