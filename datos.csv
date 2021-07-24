@@ -15,3 +15,15 @@
 "pase una tarde agradable bueno",Satisfacción
 "si, deseo continuar con la compra",Satisfacción
 "se da finalizada la conversacion por inactividad del cliente", "sin_respuesta"
+"hola como estas",nulo
+"buenos dias",nulo
+"en que le puedo ayudar",nulo
+"que precio tiene",nulo
+"Puedo servirle?",nulo
+"es usted una buena persona",nulo
+"necesito una camisa",nulo
+"necesito algo",nulo
+"necesito mas ropa",nulo
+"quiero unos zapatos",nulo
+"por favor me informa lo siguientes",nulo
+"no quiero",Insactifaccion
